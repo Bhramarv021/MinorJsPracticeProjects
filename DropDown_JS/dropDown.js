@@ -13,7 +13,7 @@ const countries = [
   { id: 5, country: "Indonesia" },
   { id: 5, country: "China" },
   { id: 6, country: "Japan" },
-  { id: 7, country: "Pakistan" },
+  { id: 7, country: "South Africa" },
 ];
 
 function showCountries (countries) {
